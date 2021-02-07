@@ -1,0 +1,8 @@
+Step1: Start
+Step2: Declar a variable 'x'
+Step3: check if x/2=0
+Step4:if x/2==0
+      display "Even number"
+step5: else 
+       display "odd number"
+Step6: Stop
