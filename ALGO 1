@@ -1,0 +1,8 @@
+Step1: Start
+Step2: declare a variable age
+Step3: read the age from the user
+Step4: if age >= 18
+        display :Ëligible to vote"
+Step4: else
+        display: "Not eligible to vote"
+step5:Stop
