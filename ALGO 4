@@ -1,0 +1,10 @@
+Step1: Start
+Step2: Declare the variables a,b,c,sum,result
+Step3: Read three numbers a,b,c
+Step4: Calculate Sum=a+b
+Step5: Calculate Result=Sum*c
+Step6: if result>100
+        display "greater than 100"
+        else
+        display ""less than 100"
+Step7: Stop
